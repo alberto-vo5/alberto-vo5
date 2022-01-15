@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alberto-vo5
 - 👀 I’m interested in web application & game development
-- 🌱 I’m currently learning Wnity3D
+- 🌱 I’m currently learning Unity3D
 - 💞️ I’m looking to collaborate on open source projects
 
 <!---
